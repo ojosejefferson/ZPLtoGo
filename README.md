@@ -28,3 +28,13 @@ Dê um duplo clique no arquivo ZPLtoGo.exe. O script irá automaticamente extrai
 
 4. **Resultado**:
    - Os arquivos PDF gerados serão salvos no mesmo diretório.
+  
+
+O ZPLtoGo foi testado e funciona corretamente em:
+- Windows 11
+- macOS Sonoma
+- Impressora de Etiquetas Zebra ZD230
+
+  **Contribuição**
+Contribuições são bem-vindas! Se você encontrar um bug ou tiver uma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+Espero que essas instruções ajudem você a usar o ZPLtoGo com facilidade! Se tiver alguma dúvida ou precisar de assistência adicional, não hesite em perguntar.
