@@ -1,6 +1,11 @@
 # ZPLtoGo
 Converta Arquivos .TXT ZPL em PDFs de Etiquetas de Envio do Mercado Livre com Facilidade para Macos e Windows
 
+## Como Usar no macOS
+1. **Baixe o arquivo `ZPLtoGo`** da seção de Releases.
+2. **Coloque o arquivo .zip** do Mercado Livre na mesma pasta.
+3. **Execute o programa** com um duplo clique no arquivo `ZPLtoGo`.
+
  **Baixe o arquivo .EXE na seção de Releases**:
 - Prepare seus arquivos:
 Coloque o arquivo .zip do Mercado Livre (Mercado Envios) na mesma pasta onde está o arquivo ZPLtoGo.exe.
